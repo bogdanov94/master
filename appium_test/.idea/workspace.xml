@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93fc15c6-41cd-41d2-977f-21e5b3526840" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yf6CNTtni1EejmBMd0nZ5lZ02F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/features/support" />
+    </key>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93fc15c6-41cd-41d2-977f-21e5b3526840" name="Default Changelist" comment="" />
+      <created>1583321173062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583321173062</updated>
+      <workItem from="1583321175818" duration="780000" />
+      <workItem from="1583323776401" duration="678000" />
+      <workItem from="1583324862242" duration="1182000" />
+      <workItem from="1583326836774" duration="616000" />
+      <workItem from="1583330497155" duration="105000" />
+      <workItem from="1583330720945" duration="195000" />
+      <workItem from="1583331009274" duration="42000" />
+      <workItem from="1583331173730" duration="132000" />
+      <workItem from="1583331367950" duration="332000" />
+      <workItem from="1583333050897" duration="108000" />
+      <workItem from="1583334361805" duration="379000" />
+      <workItem from="1583335390836" duration="29000" />
+      <workItem from="1583342848875" duration="12000" />
+      <workItem from="1583353635415" duration="2397000" />
+      <workItem from="1583362465450" duration="4578000" />
+      <workItem from="1583403208277" duration="133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1584" y="138" width="1071" height="864" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583326990891">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1584" y="138" width="1071" height="864" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1583326990891" />
+    <state x="1489" y="99" key="SettingsEditor" timestamp="1583356915780">
+      <screen x="1440" y="99" width="1366" height="745" />
+    </state>
+    <state x="-1539" y="115" key="SettingsEditor/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1583332706057" />
+    <state x="286" y="99" key="SettingsEditor/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1583334431834" />
+    <state x="1489" y="99" key="SettingsEditor/0.23.1440.877/1440.99.1366.745@0.23.1440.877" timestamp="1583356915780" />
+  </component>
+</project>
